@@ -1,0 +1,105 @@
+body {
+	background: url(/img/zwartevilt_@2X.jpg);
+}
+
+.main {
+	margin:auto;
+	color: #EEE;
+	margin-top: 15vh;
+	text-align: center;
+}
+
+.avatar {
+	width: 8vw;
+	height: 8vw;
+	border-radius: 4vw;
+}
+
+.title {
+	font-size: 5vw;
+	font-family: "Noticia Text";
+	display: block;
+	margin: 16px 0 16px 0;
+}
+
+.subheader {
+	font-size: 2vw;
+	font-family: "Noticia Text";
+	display: block;
+}
+
+.flex-container {
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	justify-content: center;
+	-webkit-flex-flow: row wrap;
+}
+
+.flex-item {
+	width: 7vw;
+	height: 5vw;
+	border-radius: 0.2vw;
+	margin: 8px;
+	z-index: 0;
+}
+
+.button-logo {
+	width: 4vw;
+	height: 4vw;
+	margin: auto;
+}
+
+.shade {
+	transition: 0.5s;
+	background-color: rgba(0, 0, 0, 0);
+	width: 100%;
+	height: 100%;
+	border-radius: 0.2vw;
+
+	/* Get inner logo to center */
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	-webkit-filter: brightness(100%);
+	
+}
+
+.shade:hover {
+	background-color: rgba(0, 0, 0, 0.3);
+	-webkit-filter: brightness(70%);
+}
+
+.github {
+	background-color: #FFFFFF;
+}
+
+.keybase {
+	background-color: #FF7100;
+}
+
+.discord {
+	background-color: #7289DA;
+}
+
+.patreon {
+	background-color: #E6461A;
+}
+
+.twitter {
+	background-color: #1DA1F3;
+}
+
+/* wew, this logo looks big */
+.patreon > .shade > .button-logo {
+	width: 3vw;
+	height: 3vw;
+}
+
+/* This one too */
+.github > .shade > .button-logo {
+	width: 3.3vw;
+	height: 3.3vw;
+}
