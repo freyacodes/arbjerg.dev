@@ -21,20 +21,20 @@ img {
 }
 
 .avatar {
-	width: 8vw;
-	height: 8vw;
-	border-radius: 4vw;
+	width: calc(6vw + 48px);
+	height: calc(6vw + 48px);
+	border-radius: calc(3vw + 16px);;
 }
 
 .title {
-	font-size: 5vw;
+	font-size: calc(3vw + 32px);
 	font-family: "Noticia Text";
 	display: block;
 	margin: 16px 0 16px 0;
 }
 
 .subheader {
-	font-size: 2vw;
+	font-size: calc(1vw + 16px);
 	font-family: "Noticia Text";
 	display: block;
 }
@@ -50,16 +50,16 @@ img {
 }
 
 .flex-item {
-	width: 7vw;
-	height: 5vw;
-	border-radius: 0.2vw;
-	margin: 8px;
+	width: calc(5.5vw + 48px);
+	height: calc(3vw + 48px);
+	border-radius: 0.4vw;
+	margin: calc(0.5vw + 8px);
 	z-index: 0;
 }
 
 .button-logo {
-	width: 4vw;
-	height: 4vw;
+	width: calc(2vw + 32px);
+	height: calc(2vw + 32px);
 	margin: auto;
 }
 
@@ -68,7 +68,7 @@ img {
 	background-color: rgba(0, 0, 0, 0);
 	width: 100%;
 	height: 100%;
-	border-radius: 0.2vw;
+	border-radius: 0.4vw;
 
 	/* Get inner logo to center */
 	display:flex;
@@ -105,12 +105,12 @@ img {
 
 /* wew, this logo looks big */
 .patreon > .shade > .button-logo {
-	width: 3vw;
-	height: 3vw;
+	width: calc(1.5vw + 24px);
+	height: calc(1.5vw + 24px);
 }
 
 /* This one too */
 .github > .shade > .button-logo {
-	width: 3.3vw;
-	height: 3.3vw;
+	width: calc(1.65vw + 26px);
+	height: calc(1.65vw + 26px);
 }
