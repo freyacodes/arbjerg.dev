@@ -23,7 +23,7 @@ img {
 .avatar {
 	width: calc(6vw + 48px);
 	height: calc(6vw + 48px);
-	border-radius: calc(3vw + 16px);;
+	border-radius: calc(3vw + 24px);;
 }
 
 .title {
