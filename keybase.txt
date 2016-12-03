@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/fre_d
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://frederikam.com
+  * I am fre_d (https://keybase.io/fre_d) on keybase.
+  * I have a public key with fingerprint 881D 9910 138F E236 3888  AF81 88CC 7B44 B4F6 0A8B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01205831e47ba41a0d6f0c38e83ff54cc70e709ca152179bb44b8f3b4bc5298644670a",
+            "fingerprint": "881d9910138fe2363888af8188cc7b44b4f60a8b",
+            "host": "keybase.io",
+            "key_id": "88cc7b44b4f60a8b",
+            "kid": "010105a4b4f788ba82cb2d9c63d43ada052833ba09ba38df783c1c967ed58b39097b0a",
+            "uid": "46510c006f66232459d44064617f3619",
+            "username": "fre_d"
+        },
+        "service": {
+            "hostname": "frederikam.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1480275954,
+    "expire_in": 157680000,
+    "prev": "8d4ba7cafa724cd129ca899cb966955e1f39e5fdf53237e673a9c6b419c962fe",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMNwAnicbVJ7UBVVHL5cfKI8YjAqarAdXsajfe/Zm5JeLXDCKcaRkqQ7Z3fPXpbL
+vXu5DxARaYAmRkWjwMigyxBgSjOUgQiIIz5QQwYipkaacpppFBUNMVDUsF0mp386
+548z5/f7vu985zvnbKC/IcCv4lLRhvaZgD1+A30HvIZ3XuGmijBBlQoxUxFmQ/ML
+ypWQ22OxKRJmwnCCxBlAEYjmBEgTEJdYGRcpgAAlywwtihyOOJwXIcGQBMcLAk0L
+QKYEWhAZkgcsTbMcDrEETFYcVuRyuhSHR5MFgJB4nsAJCsiIpFgKAABlQACgKeoa
+tMziEAgaMVt16wzNnADdKElRtZq2sczb+x/8E9/aZKDe4AAQICBFgZR4kaUkmoIS
+xBkSUJQAcV6AFJA0ECUSIs9ySGKAQPE4zwnzvr3zcjTLELiI46zMsiRF0gwv0TTO
+0izByRRL8DrQjVwOaEcaWnYhi4QVJ2BaKV8RkZ6qfo3/2hJyKTZoTxJVu0Z1ulSP
+Kqq5Wi/b43GadKqn0KljC5Bg+VfFIigOSUtRI+Qjl1tRHZiJ0JCiR9FlCRrgJMfw
+DJ2Aoe1ORfOg6AiGYwGuDf0YlK9nJtEC5EQoQ46kRYkgtdcDPC8KPMvyDIMImeIR
+I0syQ5EUh1iOglpuAk3wWj6kjDD9XnkOVdNmNZ/Qqmm6FasDerwuhBWf7tu2wOAX
+YFi00Kh/L0PA0pAnn67+ZvDcmnJmR+umydK6+NcPmf3CwqtjYhsZLPmvnV/tKfQp
+9Rd6ims3HOkXt7w7VV0YGLLlu+rMAf/Zh0GLE1L5Mw9movrih6OPbW0+t2xVZVo7
+awo+17o1etLqeTNmxbHoUxfaYc++H6tyIoJ732v5aLQk+9dxx35yLOv95IkYsmHb
+xk2Zhx2/uUyJ6V0Ld7jzEi7H5cadiiprSerduOynL0a3L5muZatTIlmhrac0D/f7
+u2xtytufG70nlVfpk7uNj07P2vzNHfYvfUD4+KZ9dcPx2P4bhoiX0v8YqRh48ZLv
+5aEmi+XxsymHQj/9JMtcsnxxMBxKvh9pexhR0bRzzpe998rv3bsrqmJDVly/ei/I
+4P3MHNpuPPtDX8bydczP15ufs4fPdJt/GaynR24dfvw93x//Yff51MHxzlVq23DZ
+1abZpyO7smeqVj6Iszr+HHHbekIVeW31jYnjnvqD6+9NPDoghPlqPpBSXzsxbDw6
+On4x8/ZQ57XVGXU5reUnBmMih1JGYxOtRaCzoKix1/1C1vQzasXF9d803xl7A2sd
+OtKxv/LO7dG7ifWbl/DhbQGZlrtqXM3kdM6V4cB+fPLW1IIyc3pa1FhdI7umtLJ2
+l7rLR16LDqo5GFhQ3nW/Lyym6qm5RfzmjqaS6anLzui3Os5PPN+4b+W3ZzJGyoxf
+NzWI61rSvEuPTvm6HP8AwBrBQg==
+=Vh5s
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fre_d
+
+==================================================================
