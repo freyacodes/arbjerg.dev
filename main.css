@@ -3,6 +3,16 @@ body {
 	background-color: #111;
 }
 
+img {
+	user-select: none;
+	user-drag: none; 
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+}
+
 .main {
 	margin:auto;
 	color: #EEE;
