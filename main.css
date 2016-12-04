@@ -37,6 +37,14 @@ img {
 	font-size: calc(1vw + 16px);
 	font-family: "Noticia Text";
 	display: block;
+	margin-bottom: 8px;
+}
+
+.horizontal-seperator {
+	width: calc(30vw + 16px*8);
+	height: 2px;
+	background-color: #EEE;
+	margin: 0 0 32px calc(50vw - 15vw - 16px*4);
 }
 
 .flex-container {
