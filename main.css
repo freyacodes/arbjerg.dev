@@ -28,14 +28,14 @@ img {
 
 .title {
 	font-size: calc(3vw + 32px);
-	font-family: "Noticia Text";
+	font-family: "Noticia Text", serif;
 	display: block;
 	margin: 16px 0 16px 0;
 }
 
 .subheader {
 	font-size: calc(1vw + 16px);
-	font-family: "Noticia Text";
+	font-family: "Noticia Text", serif;
 	display: block;
 	margin-bottom: 8px;
 }
@@ -96,7 +96,7 @@ img {
 }
 
 .keybase {
-	background-color: #FF7100;
+	background-color: #FFFFFF;
 }
 
 .discord {
