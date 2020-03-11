@@ -16,6 +16,7 @@ img {
 .intro {
     margin-top: 17vh;
     width: 325px;
+    white-space: nowrap;<a>
 }
 
 .avatar {
