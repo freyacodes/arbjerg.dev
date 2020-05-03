@@ -16,10 +16,12 @@ img {
 .intro {
     margin-top: 17vh;
     width: 325px;
+    white-space: nowrap;<a>
 }
 
 .avatar {
-    background: url(https://www.gravatar.com/avatar/b76d6eb8413e55244413f18b99df8682?s=100);
+    background: url(https://www.gravatar.com/avatar/b76d6eb8413e55244413f18b99df8682?s=200);
+    background-size: 100px;
     width: 100px;
     height: 100px;
     border-radius: 50%;
