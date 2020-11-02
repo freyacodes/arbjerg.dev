@@ -28,6 +28,10 @@ a:hover {
     content: "@"
 }
 
+.unspaced {
+    letter-spacing: -0.17em;
+}
+
 @media screen and (max-width: 500px) {
     body {
         background-color: #F6AC87;
