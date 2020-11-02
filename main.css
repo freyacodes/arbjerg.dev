@@ -2,6 +2,7 @@ body {
     display: flex;
     justify-content: center;
     background-color: #19191f;
+    margin: 0;
 }
 
 .text {
@@ -23,16 +24,23 @@ a:hover {
     text-decoration: underline;
 }
 
-.obfuscated1:before {
-    content: "freya"
+.at:before {
+    content: "@"
 }
 
-.obfuscated2:before {
-    content: "frmik18"
-}
+@media screen and (max-width: 500px) {
+    body {
+        background-color: #F6AC87;
+        display: block;
+    }
 
-@media screen and (max-width: 350px) {
-    p {
+    .text {
         font-size: 14px;
+        padding: 24px;
+        margin: auto;
+    }
+
+    .break {
+        display: none;
     }
 }
