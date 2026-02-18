@@ -6,7 +6,7 @@ body {
 }
 
 .text {
-    background-color: #F6AC87;
+    background-color: #f6ac87;
     white-space: pre-line;
     font-family: monospace;
     display: block;
@@ -24,17 +24,17 @@ a:hover {
     text-decoration: underline;
 }
 
-.at:before {
-    content: "@"
-}
-
 .unspaced {
     letter-spacing: -0.17em;
 }
 
+.hidden {
+    display: none;
+}
+
 @media screen and (max-width: 500px) {
     body {
-        background-color: #F6AC87;
+        background-color: #f6ac87;
         display: block;
     }
 
